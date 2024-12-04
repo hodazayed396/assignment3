@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .section-padding {
+        padding: 40px 0px;
+    }
+    
+.about-us .about-info {
+    padding-top: 30px;
+}
+}
